@@ -21,11 +21,11 @@ Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/b
 #### [Assignment 1](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
 
 
-#### Assignment 2
+#### [Assignment 2](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW2/HW2.pdf)
 
 
-#### Assignment 3
+#### [Assignment 3](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW3/hw3.pdf)
 
 
-#### Assignment 4
+#### [Assignment 4](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW4/hw4-v1_1.pdf)
 
