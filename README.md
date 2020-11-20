@@ -1,2 +1,4 @@
 # SNUCV2020Fall
-Seoul National University Computer Vision 2020 Fall Project &amp; Assignments
+This repository contains my solutions to the assignments and projects of the Computer Vision course offered by Seoul National University (Fall 2020).
+
+
