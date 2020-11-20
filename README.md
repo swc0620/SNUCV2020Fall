@@ -19,10 +19,10 @@ We are working on **Performance Analysis of Deepfake Detection Models: Under Dat
 
 ### Assignment 1
 
-- [Assignment](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
+- [Assignment 1](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
 
 
-![apple](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/images/apple.jpg “Apple”)
+![apple](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/images/apple.jpg)
 
 ### Assignment 2
 
