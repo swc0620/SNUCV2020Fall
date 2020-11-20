@@ -22,7 +22,7 @@ We are working on **Performance Analysis of Deepfake Detection Models: Under Dat
 - [Assignment](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
 
 
-![apple](https://github.com/swc0620/SNUCV2020Fall/HW1/images/apple.jpg “Apple”)
+![apple](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/images/apple.jpg “Apple”)
 
 ### Assignment 2
 
