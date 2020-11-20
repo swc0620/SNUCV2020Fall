@@ -17,16 +17,14 @@ We are working on **Performance Analysis of Deepfake Detection Models: Under Dat
 ## Assignments
 
 
-### Assignment 1
-
-- [Assignment 1](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
+### -[Assignment 1](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
 
 
-### Assignment 2
+### -Assignment 2
 
 
-### Assignment 3
+### -Assignment 3
 
 
-### Assignment 4
+### -Assignment 4
 
