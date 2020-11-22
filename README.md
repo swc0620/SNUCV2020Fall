@@ -20,7 +20,7 @@ Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/b
 
 * #### [Assignment 1](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
 
-    Assignment 1 covers
+    Assignment 1 covers followings.
 
     * Image filters
         * Gaussian filter to avoid gaussian noise
@@ -34,6 +34,18 @@ Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/b
 
 * #### [Assignment 2](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW2/HW2.pdf)
 
+    Assignment 2 covers followings.
+
+    * Hough Transform Line Parameterization
+    * Lambertian Reflectance Properties
+        * Relation of albedo and BRDF
+        * Equation for the reflectance mapn in non-Lambertian surfaces (e.g. maria of the moon)
+    * Camera Calibration
+    * Hough Transformation for Line Detection
+        * Edge Detection using Sobel filters
+        * Hough transform and Hough line segments
+
+![result](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW2/results_image.png)
 
 * #### [Assignment 3](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW3/hw3.pdf)
 
