@@ -1,6 +1,6 @@
 # SNUCV2020Fall
 
-This repository contains my solutions to the assignments and projects of the Computer Vision course offered by Seoul National University (Fall 2020).
+This repository contains my solutions to the assignments and projects of the Computer Vision course offered by Seoul National University (Fall 2020)
 
 
 ---
@@ -8,8 +8,8 @@ This repository contains my solutions to the assignments and projects of the Com
 ## Project (On progress, ~ 8th December)
 
 
-We are working on "*Performance Analysis of Deepfake Detection Models: Under Dataset Consisting Mainly of Asians*".
-Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf).
+We are working on "*Performance Analysis of Deepfake Detection Models: Under Dataset Consisting Mainly of Asians*"
+Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf)
 
 
 
@@ -20,7 +20,7 @@ Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/b
 
 * #### [Assignment 1](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW1/hw1.pdf)
 
-    Assignment 1 covers followings.
+    Assignment 1 covers followings
 
     * Image filters
         * Gaussian filter to avoid gaussian noise
@@ -34,7 +34,7 @@ Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/b
 
 * #### [Assignment 2](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW2/HW2.pdf)
 
-    Assignment 2 covers followings.
+    Assignment 2 covers followings
 
     * Hough Transform Line Parameterization
     * Lambertian Reflectance Properties
@@ -49,6 +49,16 @@ Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/b
 
 * #### [Assignment 3](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW3/hw3.pdf)
 
+
+    Assignment 3 covers followings
+
+    * Lens system (Gaussian lens formula)
+    * Homography
+    * Estimating transformation matrix using Singular Value Decomposition
+    * Mosaicing
+    * Rectification
+
+![result](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW3/results_image.png)
 
 * #### [Assignment 4](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW4/hw4-v1_1.pdf)
 
