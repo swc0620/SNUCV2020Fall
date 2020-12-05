@@ -1,0 +1,8 @@
+jupyter==1.0.0
+ipykernel==5.1.0
+matplotlib==3.0.3
+opencv-python==3.4.2.16
+opencv-contrib-python==3.4.2.16
+numpy==1.16.2
+tqdm==4.31.1
+gdown
