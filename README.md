@@ -79,3 +79,16 @@ Assignment 4 covers followings
 ### [Assignment 5]()
 
 Assignment 5 covers followings
+
+* SVM (Soft Vector Machine)
+    * XOR problem
+    * Kernel Methods
+* K-Means Clustering
+    * Greedy Initialization
+* Image Categorization with BoW
+    1. Feature Extraction (SIFT)
+    2. Learning Visual Vocabulary
+    3. Clustering and Vector Quantization (Spatial Pyramid)
+    4. Image Representation by Frequencies of Visual Words
+
+![result](https://github.com/swc0620/SNUCV2020Fall/blob/master/HW5/results_image.JPG)
