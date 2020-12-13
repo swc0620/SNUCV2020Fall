@@ -5,7 +5,9 @@ This repository contains my solutions to the assignments and projects of the Com
 
 ---
 
-## Project: "*Landmark DeepFake Detection*"
+## Project
+
+### "*Landmark DeepFake Detection*"
 
 ### 1. [Proposal](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf)
 
