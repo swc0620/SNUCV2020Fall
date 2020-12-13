@@ -9,7 +9,8 @@ This repository contains my solutions to the assignments and projects of the Com
 
 
 We worked on "*Landmark DeepFake Detection*"
-Detailed proposal can be found [here](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf)
+
+### [Proposal](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf)
 
 Final Report can be found [here](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Landmark_Deepfake_Detection.pdf)
 
