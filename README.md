@@ -9,11 +9,19 @@ This repository contains my solutions to the assignments and projects of the Com
 
 ### "*Landmark DeepFake Detection*"
 
-### 1. [Proposal](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf)
+👉 [Proposal](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Proposal.pdf)
+👉 [Final Report](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Landmark_Deepfake_Detection.pdf)
 
-Final Report can be found [here](https://github.com/swc0620/SNUCV2020Fall/blob/master/Project/Landmark_Deepfake_Detection.pdf)
+### 1. Abstract
+In this project, we discuss three models for DeepFake detection: Steganalysis, MesoNet, VGGNet. We analyze the performance of models using whole face images, and cropped parts of face images (left eye, nose, and mouth). We discuss the reason why each model shows such performance, and suggest future improvements that can be made to DeepFake detection methods.
 
+### 2. DeepFake detection models
+* Steganalysis (SRM + Ensemble Classifier)
+* MesoNet
+* VGGNet
 
+### 3. Performance
+Performance of Steganalysis method showed relative high validation and test accuracy compared to MesoNet and VGGNet. However, using cropped facial images rather than whold facial images as input data did not boost model performance.
 
 ---
 
